@@ -1,0 +1,8 @@
+# Generated results are not part of the released dataset.
+**/dragflow/
+
+# Local caches and system files.
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
